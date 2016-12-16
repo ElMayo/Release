@@ -1,4 +1,5 @@
-$ git submodule add git://github.com/chneukirchen/rack.git rack
+git submodule add :
+git submodule add git://github.com/chneukirchen/rack.git rack
 Initialized empty Git repository in /opt/subtest/rack/.git/
 remote: Counting objects: 3181, done.
 remote: Compressing objects: 100% (1534/1534), done.
